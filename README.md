@@ -6,7 +6,7 @@ exploration of projects, professional aspirations, etc.
 
 Links to GitHub, LinkedIn, Jobbio, WayUp, Jumpstart.me, 
 Handshake, Stell.ai
-/*-------------------------------------------------------------*/
+
 
 Website resources:
 
